@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "SmartTradeAI – Binomo Edition",
+    "slug": "smarttradeai-binomo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.deepak0420.smarttradeaibinomo",
+      "adaptiveIcon": {
+        "backgroundColor": "#07111f"
+      }
+    }
+  }
+}
